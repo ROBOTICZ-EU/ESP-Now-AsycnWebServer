@@ -4,8 +4,9 @@ Place "variableInput.h" here.
 
 "variableInput.h"  --Will need to edit file for a working Sketch.
 
-If you have no BME280 breakout board; comment out code for BME280!
-Otherwise; BME280 is required to run Sketch.
+"dataCollector.php" Should be uploaded to Domain Host.  File receives 
+data from Asyncwebserver and creates a new web page every 15 ninutes 
+when data is sent from web server.
 
 techno500's ESP32 "Rain_Gauge_Two.ino" project web site:
 
