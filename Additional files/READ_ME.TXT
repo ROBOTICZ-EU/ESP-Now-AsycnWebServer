@@ -9,7 +9,7 @@ Otherwise; BME280 is required to run Sketch.
 
 techno500's ESP32 "Rain_Gauge_Two.ino" project web site:
 
-http://weather.ddns.net/Weather
+http://weather,ddns.net/Weather
 
 Source of "Rain Gauge 4N25 Circuit.jpg":
 
