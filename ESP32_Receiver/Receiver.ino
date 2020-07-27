@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//                       Version 1.0 "Receiver.ino"  06/23/2020 @ 13:42 EDT Developed by William  M. Lucid, techno500
-//                       Licensed under GNU GPL v3.0, https://www.gnu.org/licenses/gpl.html
+//                       Version 1.0 "Receiver.ino"  07/27/2020 Developed by William Lucid, techno500
+//                     
 //
 //                       New!  ESP-Now with --Receiver support
 //
