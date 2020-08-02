@@ -50,11 +50,11 @@ const char * ftpUser = "admin";
 const char * ftpPassword = "admin";
  
 //Restricted Access
-const char* Restricted = "/ACCESS.TXT";  //Can be any filename.  
+const char* Restricted = "/Anyfilename.TXT";  //Can be any filename.  
 //Will be used for "GET" request path to pull up client ip list.
 
 ///////////////////////////////////////////////////////////
-//   "pulicIP/LISTEN_PORT/reset" wiill restart the server
+//   "pulicIP/LISTEN_PORT/belltone" wiill restart the server
 ///////////////////////////////////////////////////////////
 
 ///////////////// OTA Support //////////////////////////
