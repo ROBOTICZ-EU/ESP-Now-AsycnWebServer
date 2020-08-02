@@ -1,7 +1,7 @@
 //
-//   "Rain Gaugeino" and  
-//   variableInput.h place in sketch folder
-//   William M. Lucid   07/27/2020 07:29 EDT    
+//   "ESP32_Receiver.ino" and  
+//   variableInput.h 
+//   William Lucid   08/02/2020    
 // 
 
 // Replace with your network details  
