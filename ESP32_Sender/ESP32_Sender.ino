@@ -130,8 +130,8 @@ String dtStamp(strftime_buf);
 /////////////////////////////////////////////
 
 // Replace with your network details
-const char* ssid = "R2D2";
-const char* password = "sissy4357";
+const char* ssid = "yourSSID";
+const char* password = "yourPASSWORD";
 
 //setting the addresses
 IPAddress staticIP(10, 0, 0, 200);
