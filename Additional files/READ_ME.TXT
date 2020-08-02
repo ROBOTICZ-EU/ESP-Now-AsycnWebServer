@@ -1,5 +1,5 @@
 Place "variableInput.h" in Sketch folder.
-Arduino IDE ->{Toolbar) ->Dketch -> Show Sketch folder.
+Arduino IDE ->{Toolbar) ->Sketch -> Show Sketch folder.
 Place "variableInput.h" here.
 
 "variableInput.h"  --Will need to edit file for a working Sketch.
@@ -10,7 +10,7 @@ when data is sent from web server.
 
 techno500's ESP32 "Rain_Gauge_Two.ino" project web site:
 
-http://weather,ddns.net/Weather
+http://weather-3.ddns.net/Weather
 
 Source of "Rain Gauge 4N25 Circuit.jpg":
 
