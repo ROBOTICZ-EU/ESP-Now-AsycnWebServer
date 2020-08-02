@@ -1,8 +1,4 @@
-Place "variableInput.h" in Sketch folder.
-Arduino IDE ->{Toolbar) ->Sketch -> Show Sketch folder.
-Place "variableInput.h" here.
-
-"variableInput.h"  --Will need to edit file for a working Sketch.
+"variableInput.h"  --may need editing file for to use on your network.
 
 "dataCollector.php" Should be uploaded to Domain Host.  File receives 
 data from Asyncwebserver and creates a new web page every 15 ninutes 
