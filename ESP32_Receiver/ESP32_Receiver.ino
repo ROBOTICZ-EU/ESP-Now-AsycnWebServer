@@ -62,8 +62,8 @@
 //const char* host;
 
 // Replace with your network credentials (STATION)
-const char* ssidStation = "R2D2";
-const char* passwordStation = "sissy4357";
+const char* ssidStation = "yourSSID";
+const char* passwordStation = "yourPASSWORD";
 
 // ACCESS POINT credentials
 const char* ssidAP = "ESP32-Access-Point";
