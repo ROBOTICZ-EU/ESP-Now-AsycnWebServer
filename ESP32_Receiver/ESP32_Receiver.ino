@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//                       Version 1.0 "Receiver_Build.ino"  08/01/2020 @ 23:15 EDT Developed by William  M. Lucid, techno500
+//                       Version 1.0 "ESP32_Receiver.ino"  08/01/2020 @ 23:15 EDT Developed by William  M. Lucid, techno500
 //                      
 //                       Developing AsyncWebServer 11/07/2019; modifying with fileRead and not found function.  Adding wifi log of reconnects.
 //
@@ -483,7 +483,7 @@ void setup(void)
   while (!Serial);
 
   Serial.println("");
-  Serial.println("Version 1.0 'Receiver_Build.ino'  08/01/2020 @ 23:15 EDT");
+  Serial.println("Version 1.0 'ESP32_Receiver.ino'  08/01/2020 @ 23:15 EDT");
   Serial.println("Please wait; for network connection...");
   Serial.println("");
 
