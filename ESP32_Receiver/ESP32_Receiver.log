@@ -1,0 +1,1224 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.08.02 21:13:07 =~=~=~=~=~=~=~=~=~=~=~=
+
+Client connected:  Sun , 08/02/2020 , 21:13:09 EDT
+Client IP:  0.0.0.0
+Path:  /Weather
+Processing request
+Client closed:  Sun , 08/02/2020 , 21:13:10 EDT
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 79.65 
+h value: 43.74 
+p value: 30.00 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:15:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 21:15:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 21:15:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 21:15:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   79.6 F  The Humidity is:   43.7 %  The Barometric Pressure is:   30.000 in Hg   The Difference since previous update:    0.000 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 21:15:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:20:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:25:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 80.13 
+h value: 43.61 
+p value: 30.00 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:30:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 21:30:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 21:30:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 21:30:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   80.1 F  The Humidity is:   43.6 %  The Barometric Pressure is:   30.001 in Hg   The Difference since previous update:    0.001 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 21:30:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:35:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:40:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 79.99 
+h value: 43.47 
+p value: 30.00 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:45:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 21:45:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 21:45:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 21:45:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   80.0 F  The Humidity is:   43.5 %  The Barometric Pressure is:   29.995 in Hg   The Difference since previous update:   -0.006 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 21:45:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:50:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 21:55:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 79.66 
+h value: 44.05 
+p value: 30.00 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:00:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+dhcps: send_offer>>udp_sendto result 0
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 22:00:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 22:00:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 22:00:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   79.7 F  The Humidity is:   44.1 %  The Barometric Pressure is:   29.999 in Hg   The Difference since previous update:    0.004 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 22:00:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:05:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:10:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 79.20 
+h value: 44.73 
+p value: 30.01 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:15:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 22:15:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 22:15:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 22:15:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   79.2 F  The Humidity is:   44.7 %  The Barometric Pressure is:   30.007 in Hg   The Difference since previous update:    0.008 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 22:15:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:20:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:25:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.80 
+h value: 44.72 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:30:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 22:30:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 22:30:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 22:30:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.8 F  The Humidity is:   44.7 %  The Barometric Pressure is:   30.016 in Hg   The Difference since previous update:    0.010 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 22:30:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:35:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:40:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.85 
+h value: 44.58 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:45:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 22:45:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 22:45:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 22:45:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.9 F  The Humidity is:   44.6 %  The Barometric Pressure is:   30.016 in Hg   The Difference since previous update:    0.000 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 22:45:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:50:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 22:55:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.84 
+h value: 44.88 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:00:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+dhcps: send_offer>>udp_sendto result 0
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 23:00:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 23:00:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 23:00:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.8 F  The Humidity is:   44.9 %  The Barometric Pressure is:   30.016 in Hg   The Difference since previous update:   -0.000 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 23:00:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:05:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:10:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.89 
+h value: 44.78 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:15:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 23:15:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 23:15:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 23:15:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.9 F  The Humidity is:   44.8 %  The Barometric Pressure is:   30.021 in Hg   The Difference since previous update:    0.004 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 23:15:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:20:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:25:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.69 
+h value: 45.09 
+p value: 30.03 
+readingID value: 1 
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:30:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 23:30:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 23:30:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 23:30:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.7 F  The Humidity is:   45.1 %  The Barometric Pressure is:   30.026 in Hg   The Difference since previous update:    0.005 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 23:30:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:35:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:40:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:45:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Sun , 08/02/2020 , 23:45:30 EDT
+
+Data written to  /LOG02082020.TXT  Sun , 08/02/2020 , 23:45:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Sun , 08/02/2020 , 23:45:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.7 F  The Humidity is:   45.1 %  The Barometric Pressure is:   30.026 in Hg   The Difference since previous update:    0.000 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Sun , 08/02/2020 , 23:45:32 EDT
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:50:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Sun , 08/02/2020 , 23:55:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.53 
+h value: 44.99 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:00:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+dhcps: send_offer>>udp_sendto result 0
+
+Fifthteen minute routine
+Mon , 08/03/2020 , 00:00:30 EDT
+
+Data written to  /LOG03082020.TXT  Mon , 08/03/2020 , 00:00:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Mon , 08/03/2020 , 00:00:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.5 F  The Humidity is:   45.0 %  The Barometric Pressure is:   30.022 in Hg   The Difference since previous update:   -0.003 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Mon , 08/03/2020 , 00:00:32 EDT
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:05:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:10:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.58 
+h value: 45.15 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:15:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Mon , 08/03/2020 , 00:15:30 EDT
+
+Data written to  /LOG03082020.TXT  Mon , 08/03/2020 , 00:15:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Mon , 08/03/2020 , 00:15:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.6 F  The Humidity is:   45.2 %  The Barometric Pressure is:   30.024 in Hg   The Difference since previous update:    0.002 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Mon , 08/03/2020 , 00:15:32 EDT
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:20:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:25:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.35 
+h value: 45.72 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:30:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Mon , 08/03/2020 , 00:30:30 EDT
+
+Data written to  /LOG03082020.TXT  Mon , 08/03/2020 , 00:30:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Mon , 08/03/2020 , 00:30:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.3 F  The Humidity is:   45.7 %  The Barometric Pressure is:   30.024 in Hg   The Difference since previous update:   -0.000 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Mon , 08/03/2020 , 00:30:32 EDT
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:35:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:40:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Packet received from: 24:6f:28:0b:69:b0
+Board ID 1: 20 bytes
+t value: 78.31 
+h value: 45.46 
+p value: 30.02 
+readingID value: 1 
+
+
+Five Minute routine
+Mon , 08/03/2020 , 00:45:00 EDT
+SET EEPROM rainHour
+eepromSet
+eepromDelete
+rainHour
+&rainDay=0.00&rain5min=0.00
+rainHour:0.00
+SET EEPROM rainDay
+eepromSet
+eepromDelete
+rainDay
+&rain5min=0.00&rainHour=0.00
+rainDay:0.00
+SET EEPROM rain5min
+eepromSet
+eepromDelete
+rain5min
+&rainHour=0.00&rainDay=0.00
+rain5min:0.00
+
+
+Fifthteen minute routine
+Mon , 08/03/2020 , 00:45:30 EDT
+
+Data written to  /LOG03082020.TXT  Mon , 08/03/2020 , 00:45:30 EDT
+HttpCode:  200  Data echoed back from Hosted website  
+ The Last Update was: Mon , 08/03/2020 , 00:45:30 EDT The Latitude is:    0.0000   The Logitude is:    0.0000   The Temperature is:   78.3 F  The Humidity is:   45.5 %  The Barometric Pressure is:   30.023 in Hg   The Difference since previous update:   -0.001 in Hg   The Rainfall per 5 Minute is:  0.000    The Rainfall per 60 Minutes is:   0.000    The Rainfall per 24 Hours is:   0.000    The Altitude is:       0.0 Feet  
+
+Sent data to Thingspeak.com  Mon , 08/03/2020 , 00:45:32 EDT
+
+
+Client connected:  Mon , 08/03/2020 , 00:45:44 EDT
+Client IP:  10.0.0.146
+Path:  /Weather
+Processing request
+Client closed:  Mon , 08/03/2020 , 00:45:45 EDT
