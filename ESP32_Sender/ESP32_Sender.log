@@ -1,0 +1,615 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.08.02 21:09:19 =~=~=~=~=~=~=~=~=~=~=~=
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp . time synced
+Sun , 08/02/2020 , 21:09:22 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 1
+Wakeup was not caused by deep sleep: 0
+
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 21:15:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 21:15:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 2
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 21:30:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 21:30:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 3
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 21:45:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 21:45:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 4
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 22:00:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 22:00:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 5
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 22:15:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 22:15:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 6
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 22:30:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 22:30:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 7
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 22:45:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 22:45:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 8
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 23:00:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 23:00:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 9
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 23:15:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 23:15:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 10
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 23:30:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 23:30:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 11
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Sun , 08/02/2020 , 23:45:00 EDT
+Sent with success
+Going to sleep now
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Sun , 08/02/2020 , 23:45:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 12
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Mon , 08/03/2020 , 00:00:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Mon , 08/03/2020 , 00:00:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 13
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Mon , 08/03/2020 , 00:15:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Mon , 08/03/2020 , 00:15:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 14
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Mon , 08/03/2020 , 00:30:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Mon , 08/03/2020 , 00:30:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 15
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
+Mon , 08/03/2020 , 00:45:00 EDT
+Sent with success
+Going to sleep now
+
+Last Packet Send Status:
+Delivery Success
+
+ets Jun  8 2016 00:22:57
+
+rst:0x5 (DEEPSLEEP_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:8896
+load:0x40080400,len:5816
+entry 0x400806ac
+
+
+Connecting to R2D2
+.
+WiFi connected
+MAC: 24:6F:28:0B:69:B0
+Server IP:  10.0.0.200
+
+wait for first valid timestamp  time synced
+Mon , 08/03/2020 , 00:45:16 EDT
+WiFi SSID Disconnected:  R2D2
+
+Connecting to Access Point...
+This mac: 24:6F:28:0B:69:B0, target mac: 246f28a97dd4, channel: 9
+
+Found BME280 sensor! Success.
+Boot number: 16
+Wakeup caused by timer
+
+ESP32_Sender going into Deep Sleep for:  15 Minutes
+
